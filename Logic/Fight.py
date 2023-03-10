@@ -124,7 +124,6 @@ class Fight(BaseModel):
                 f"{attacking_player.name} gana con {attacking_player.hp} punto de energía restante!\n\n"
             )
 
-        sleep(2)
         return damaged_player.hp
 
     def fight(self):
