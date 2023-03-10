@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a Python command-line interface (CLI) tool that simulates a fight beetween two kombatants.
+This is a Python command-line interface (CLI) tool that simulates a fight beetween two Kombatants. Python 3.9+ is required. The use of virtual envs is recommended
 
 ### Installation
 

@@ -31,7 +31,6 @@ def main(p1_moves: Moves, p2_moves: Moves):
 
 
 if __name__ == "__main__":
-    print(sys.argv)
     if len(sys.argv) < 1:
         print("Se requiere un json con los movimientos utilizados por los personajes")
 
